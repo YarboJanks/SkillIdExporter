@@ -1,0 +1,7 @@
+## Title: SkillIdExporter
+## Author: RL Assistant
+## Description: Export ESO skill data (IDs, names, descriptions, icons) for build editors
+## APIVersion: 101049
+## AddOnVersion: 1.0.0
+
+SkillIdExporter.lua
